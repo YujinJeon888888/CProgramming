@@ -1,0 +1,7 @@
+﻿  movie.c
+C:\C프로그래밍및실습\이화극장\movie.c(39,10): warning C4098: '좌석보이기': 'void' 함수에서 값을 반환하고 있습니다.
+C:\C프로그래밍및실습\이화극장\movie.c(49,98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C프로그래밍및실습\이화극장\movie.c(51,45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C프로그래밍및실습\이화극장\movie.c(78,98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\C프로그래밍및실습\이화극장\movie.c(80,45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  이화극장.vcxproj -> C:\C프로그래밍및실습\x64\Debug\이화극장.exe
